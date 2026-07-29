@@ -1,7 +1,8 @@
 # AI/ML for Materials Workshop, July 2026
 Repository contains lecture slides and Google colab notebooks used for the "AI/ML for Materials" workshop organised at the Indian Institute of Science, over July 27-29, 2026. Folders and content are self-explanatory.
 
-List of speakers and topics covered in the workshop are listed in this workshop flyer ![flyer](https://github.com/sai-mat-group/ai-ml-for-materials-2026/blob/main/AIML_Materials_July2026_Flyer.png).
+List of speakers and topics covered in the workshop are listed in this workshop flyer. 
+![flyer](https://github.com/sai-mat-group/ai-ml-for-materials-2026/blob/main/AIML_Materials_July2026_Flyer.png)
 
 Listed below are OneDrive links for the video recordings of the lectures and hands-on sessions.
 ### Day 1
