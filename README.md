@@ -12,6 +12,10 @@ Listed below are OneDrive links for the video recordings of the lectures and han
 - [Hands-On, Neural Networks](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQAZaAgqFHqkTb9ectDnx1JbAZs1-OeDVPv-JtiIPdI2HBc?e=ZlVW3u)
 
 ### Day 2
-
+- [Lecture, Interatomic potentials and generative models](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQCMQb2GrKYfR4xj2KQH3e7fASNDswwg9NB4ABf2EW82Hr4?e=aOnLXr)
+- [Hands-On, Interatomic potentials](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQBHIKa_R7amQoCXhGp0yCPyAVT9rYKOC797Ibmd9R-tdNM?e=DWqirT)
+- [Hands-On, Generative models](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQBWRv1O4D0jToFmkeHKT2LqAYReUy2O7OZAya94bh_Hz7s?e=RjlmAM)
+- [Lecture, Physics informed networks](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQCMT62I15USTLxR12K8pocbAedGFC2UEDsLviiXInfdBtg?e=FGPSQD)
+- [Hands-On, Physics informed networks](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQAloi2hyq75T43HSrKVa94wAUZvKOdCnERtJbPz_bH5x9A?e=XwONs9)
 
 ### Day 3
