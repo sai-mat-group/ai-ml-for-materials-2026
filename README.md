@@ -1,5 +1,5 @@
 # AI/ML for Materials Workshop, July 2026
-Repository contains lecture slides and Google colab notebooks used for the "AI/ML for Materials" workshop organised at the Department of Materials Engineering, Indian Institute of Science, over July 27-29, 2026. Folders and content are self-explanatory.
+Repository contains lecture slides and Google colab notebooks used for the "AI/ML for Materials" workshop organised at the Department of Materials Engineering, Indian Institute of Science, over July 27-29, 2026. The workshop was partially supported by the "PAIR" program run by the Anusandan National Research Foundation (ANRF), whose details can be found [here](https://anrfonline.in/ANRF/PAIR?HomePage=New). Folders and content are self-explanatory.
 
 List of speakers and topics covered in the workshop are listed in this workshop flyer. 
 ![flyer](https://github.com/sai-mat-group/ai-ml-for-materials-2026/blob/main/AIML_Materials_July2026_Flyer.png)
