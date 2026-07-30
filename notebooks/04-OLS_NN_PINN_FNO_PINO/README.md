@@ -24,9 +24,7 @@ The notebook begins with one synthetic grain-size–strength dataset:
 
 The dominant ordinary Hall–Petch population is used to define the train–validation–test split and to estimate
 
-\[
-\sigma_y=\sigma_0+k d^{-1/2}.
-\]
+$$\sigma_y=\sigma_0+k d^{-1/2} $$
 
 The ten small-grain observations are initially tagged as anomalous scatter. They remain visible in the common dataset but are excluded from the ordinary OLS fit. This deliberately illustrates how a numerically excellent fit can be physically incomplete when a small, systematic regime is neglected.
 
