@@ -1,5 +1,5 @@
 # AI/ML for Materials Workshop, July 2026
-Repository contains lecture slides and Google colab notebooks used for the "AI/ML for Materials" workshop organised at the Department of Materials Engineering, Indian Institute of Science, over July 27-29, 2026. Folders and content are self-explanatory.
+Repository contains lecture slides and Google colab notebooks used for the "AI/ML for Materials" workshop organised at the Department of Materials Engineering, Indian Institute of Science, over July 27-29, 2026. The workshop was partially supported by the "PAIR" program run by the Anusandan National Research Foundation (ANRF), whose details can be found [here](https://anrfonline.in/ANRF/PAIR?HomePage=New). Folders and content are self-explanatory.
 
 List of speakers and topics covered in the workshop are listed in this workshop flyer. 
 ![flyer](https://github.com/sai-mat-group/ai-ml-for-materials-2026/blob/main/AIML_Materials_July2026_Flyer.png)
@@ -19,3 +19,7 @@ Listed below are OneDrive links for the video recordings of the lectures and han
 - [Hands-On, Physics informed networks](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQAloi2hyq75T43HSrKVa94wAUZvKOdCnERtJbPz_bH5x9A?e=XwONs9)
 
 ### Day 3
+- [Lecture, Agentic AI and automated labs](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQB4wHBAcN3FTr0O8g1HPBacAWcCyvt1HDQHAl03XMjL6VQ?e=SmiHsw)
+- [Hands-On, Agentic AI](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQDtMvyd3HyeT7pbKEuG9Xb1AeUmYBdY5UA_1Um86u1W3zw?e=dg6u88)
+- [Lecture, Polymer informatics](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQAzLAAyElfZQKjj1InEv7oMATNFGp1XvKzPSHiV-KL3hqQ?e=18vyx2)
+- [Hands-On, Polymer informatics](https://indianinstituteofscience-my.sharepoint.com/:v:/g/personal/saigautamg_iisc_ac_in/IQAImsvdfIWVQLeFLGMPEU4tAc2vOBX4djyLi55XHPcmVRI?e=GoVvsr)
