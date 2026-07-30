@@ -1,6 +1,6 @@
-# OLS, Neural Networks, PINNs, FNOs and PINOs for Materials Science
+# OLS, Neural Networks, PINNs, FNOs and PINOs for Materials Science (Updated notebook)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sai-mat-group/ai-ml-for-materials-2026/blob/main/notebooks/OLS_NN_PINN_FNO_PINO.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sai-mat-group/ai-ml-for-materials-2026/blob/main/notebooks/04-OLS_NN_PINN_FNO_PINO/04-updated_OLS_NN_PINN_FNO_PINO.ipynb)
 
 This notebook develops a continuous teaching sequence from ordinary least squares to neural networks, physics-informed neural networks, Fourier neural operators and physics-informed neural operators. The examples are written for materials-science learners and emphasize a central principle:
 
@@ -8,7 +8,7 @@ This notebook develops a continuous teaching sequence from ordinary least square
 
 ## Notebook
 
-- [`OLS_NN_PINN_FNO_PINO.ipynb`](./OLS_NN_PINN_FNO_PINO.ipynb)
+- [`OLS_NN_PINN_FNO_PINO.ipynb`](./04-updated_OLS_NN_PINN_FNO_PINO.ipynb)
 
 The notebook is designed for Google Colab and can also be executed locally in Jupyter.
 
@@ -143,7 +143,7 @@ python -m pip install numpy matplotlib torch jupyter
 Then start Jupyter:
 
 ```bash
-jupyter notebook notebooks/OLS_NN_PINN_FNO_PINO.ipynb
+jupyter notebook notebooks/04-OLS_NN_PINN_FNO_PINO/04-updated_OLS_NN_PINN_FNO_PINO.ipynb
 ```
 
 ## Main dependencies
